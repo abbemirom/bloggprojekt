@@ -30,7 +30,7 @@
             <nuxt-link to="/" class="active">Home</nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/blogg">Blogg</nuxt-link>
+            <nuxt-link to="/blogg">Blog</nuxt-link>
           </li>
           <li><nuxt-link to="/photos">Photos</nuxt-link></li>
           <li><nuxt-link to="/About">About</nuxt-link></li>
