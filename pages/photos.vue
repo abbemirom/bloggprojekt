@@ -8,6 +8,7 @@
         justify-center
         p-80
         text-white text-8xl
+        font-serif
       "
       style="
         background-image: url(https://k9ti.org/wp-content/uploads/2019/02/puppy-3688871_1920-1.jpg);

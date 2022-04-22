@@ -10,7 +10,7 @@
       <div class="md:hidden">
         <button @click="drawer">
           <svg
-            class="h-8 w-8 fill-current text-white"
+            class="h-8 w-8 fill-current text-gray-100"
             fill="none"
             stroke-linecap="round"
             stroke-linejoin="round"
@@ -25,7 +25,9 @@
 
       <!-- Navbar -->
       <div class="hidden md:block">
-        <ul class="flex justify-center space-x-8 text-sm font-sans text-white">
+        <ul
+          class="flex justify-center space-x-8 text-sm font-sans text-gray-100"
+        >
           <li>
             <nuxt-link to="/" class="active">Home</nuxt-link>
           </li>
@@ -67,7 +69,7 @@
           top-0
           left-0
           w-64
-          bg-green
+          bg-green-900
           fixed
           h-full
           overflow-auto
@@ -194,7 +196,7 @@ export default {
 
 <style>
 .nuxt-link-exact-active {
-  border-bottom: 2px solid rgb(182, 213, 241);
+  border-bottom: 2px solid rgb(147, 157, 166);
   padding-bottom: 5px;
 }
 </style>

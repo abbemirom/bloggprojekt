@@ -1,7 +1,9 @@
 <template>
   <div class="flex flex-col pt-20 h-full">
     <div class="w-full flex justify-center">
-      <h1 class="text-3xl border-b-2 border-green-500 mt-10">5 olika raser</h1>
+      <h1 class="text-3xl border-b-2 border-green-500 mt-10 font-serif">
+        5 olika raser
+      </h1>
     </div>
     <div>
       <Labrador></Labrador>

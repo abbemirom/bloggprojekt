@@ -5,7 +5,7 @@
       alt="en hund"
       class="w-8"
     />
-    <div class="w-20 ml-7 font-serif">Min sida</div>
+    <div class="w-20 ml-7 font-serif text-gray-100">Min sida</div>
     <!-- <svg
       class="w-auto md:block h-10"
       viewBox="0 0 273 64"

@@ -10,6 +10,7 @@
         p-32
         text-white text-6xl
         lg:text-8xl
+        font-serif
       "
       style="
         background-image: url(https://studier.se/wp-content/uploads/2019/01/Jobba-med-hundar.jpg);

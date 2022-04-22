@@ -7,6 +7,7 @@
         flex
         justify-center
         p-80
+        font-serif
         text-white text-8xl
       "
       style="
@@ -34,7 +35,7 @@
         text-white text-lg
       "
       style="
-        background-image: url(https://www.essentialliving.co.uk/wp-content/uploads/2021/02/Where-to-Adopt-a-Dog-in-London_Header.png;;;;;;;;;
+        background-image: url(https://www.essentialliving.co.uk/wp-content/uploads/2021/02/Where-to-Adopt-a-Dog-in-London_Header.png;;;;;;;;;;;
       "
     >
       <div>Ifall ni har komplimanger kan ni skriva till</div>

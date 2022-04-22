@@ -7,6 +7,7 @@
         flex
         justify-center
         p-80
+        font-serif
         text-white text-8xl
       "
       style="
@@ -22,8 +23,9 @@
         flex flex-wrap
         justify-items-center
         w-64
+        font-serif
         p-80
-        text-white text-2xl
+        text-white text-2xl text-center
       "
       style="
         background-image: url(https://img.etimg.com/thumb/msid-77290941,width-525,height-393,imgsize-585991,resizemode-8,quality-100/news/politics-and-nation/pet-breeders-enjoy-the-new-boom-small-dogs-in-high-demand-amidst-covid-blues.jpg);
