@@ -1,7 +1,7 @@
 ---
 id: 2
 image: https://www.petmd.com/sites/default/files/2021-11/small-dog.jpg
-title: Let Me Tell You About This Steak
+title: Jag är lite kall
 description: Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.
 date: "2020-05-17"
 --- 

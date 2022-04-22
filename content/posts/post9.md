@@ -1,7 +1,7 @@
 ---
 id: 9
 image: https://www.hundkompassen.nu/assets/tax05.febaa7f6.jpg
-title: The Perfect Sandwich, A Real NYC Classic
+title: En stark jävel
 description: En taxi
 date: "2022-04-08"
 --- 
