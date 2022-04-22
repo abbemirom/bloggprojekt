@@ -10,7 +10,7 @@
       <div class="md:hidden">
         <button @click="drawer">
           <svg
-            class="h-8 w-8 fill-current text-black"
+            class="h-8 w-8 fill-current text-white"
             fill="none"
             stroke-linecap="round"
             stroke-linejoin="round"
@@ -25,7 +25,7 @@
 
       <!-- Navbar -->
       <div class="hidden md:block">
-        <ul class="flex justify-center space-x-8 text-sm font-sans">
+        <ul class="flex justify-center space-x-8 text-sm font-sans text-white">
           <li>
             <nuxt-link to="/" class="active">Home</nuxt-link>
           </li>

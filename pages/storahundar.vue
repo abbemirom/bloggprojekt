@@ -29,9 +29,11 @@
         lg:text-8xl
       "
       style="
-        background-image: url(https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2020%2F06%2F28%2Fsleepy-saint-bernard-587079173-2000.jpg);
+        background-image: url(https://www.rover.com/blog/wp-content/uploads/2019/10/dog-2691631_1280-1.jpg);
       "
-    ></div>
+    >
+      "Ett citat är jag ifall någon undrar"
+    </div>
     <div
       class="
         bg-local bg-cover
@@ -44,7 +46,7 @@
         lg:text-8xl
       "
       style="
-        background-image: url(https://www.rover.com/blog/wp-content/uploads/2019/10/dog-2691631_1280-1.jpg);
+        background-image: url(https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2020%2F06%2F28%2Fsleepy-saint-bernard-587079173-2000.jpg);
       "
     ></div>
   </div>
