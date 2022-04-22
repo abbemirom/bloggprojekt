@@ -18,7 +18,7 @@
     >
       Blogg
     </div>
-    <h17 class="text-lg">All posts</h17>
+    <h17 class="text-lg mt-4">All posts</h17>
 
     <div
       @click="goToPost(post.id)"
