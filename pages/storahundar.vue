@@ -27,6 +27,7 @@
         p-32
         text-white text-6xl
         lg:text-8xl
+        text-center
       "
       style="
         background-image: url(https://www.rover.com/blog/wp-content/uploads/2019/10/dog-2691631_1280-1.jpg);

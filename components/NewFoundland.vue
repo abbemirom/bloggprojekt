@@ -9,9 +9,10 @@
       <h1 class="text-xl">Newfoudland</h1>
       <div class="pt-5 leading-7">
         Newfoudland är en väldigt stor hund som är fluffig. Ifall du vill ha en
-        hund som kan använas som ett fluffigt tyngtäcke är det här rätt. Den är
+        hund som kan använas som ett fluffigt tyngdtäcke är det här rätt. Den är
         även perfekt för att krama eftersom att du knappt behöver böja dig ner
-        och fluffet kan du mossa ner i ansiktet.
+        och fluffet kan du mossa ner ansiktet i. Och ifall du skulle behöva en
+        polare att simma med så kommer denna hund gärna hänga med.
       </div>
     </div>
   </div>
